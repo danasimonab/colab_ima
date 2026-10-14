@@ -1,0 +1,29 @@
+The formula for standard deviation (std) is:
+
+σ = √( Σ(xᵢ - μ)² / N )
+
+Where:
+
+σ — standard deviation
+Σ — sum of all values
+xᵢ — each individual value
+μ — mean (average)
+N — number of values
+
+
+
+REGRESSION formula
+
+The mathematical representation of simple linear regression is expressed as:
+
+    y = mx + c
+Here: 
+
+m represents the slope and describes the relationship between x (the independent variable) and y (the dependent variable). 
+
+c is the intercept, which denotes the value of Y when X=0. 
+
+The slope (m) and intercept (c) are critical coefficients derived from the data. 
+Their values determine the accuracy with which the model predicts outcomes. 
+Depending on whether the relationship between X and Y is direct or inverse, these coefficients can be positive or negative. 
+
