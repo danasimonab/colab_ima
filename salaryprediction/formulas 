@@ -21,7 +21,7 @@ Here:
 
 m represents the slope and describes the relationship between x (the independent variable) and y (the dependent variable). 
 
-c is the intercept, which denotes the value of Y when X=0. 
+c is the intercept/bias, which denotes the value of Y when X=0. 
 
 The slope (m) and intercept (c) are critical coefficients derived from the data. 
 Their values determine the accuracy with which the model predicts outcomes. 
